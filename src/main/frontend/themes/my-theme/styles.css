@@ -1,0 +1,33 @@
+.custom-upload-section {
+    padding: 20px;
+    border: 2px dashed #ccc;
+    border-radius: 12px;
+    background-color: #f9f9f9;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.result-text {
+    color: black;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.section-header {
+    margin-top: 30px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+.centered-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button.analyze-button {
+    background-color: #2e7d32; /* ciemna zieleń */
+    color: white;
+    font-weight: bold;
+}
