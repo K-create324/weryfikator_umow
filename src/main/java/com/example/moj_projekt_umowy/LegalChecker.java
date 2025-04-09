@@ -18,6 +18,7 @@ public class LegalChecker {
         this.requiredClauses.add("KARA UMOWNA".toUpperCase());
         this.requiredClauses.add("WCZEśNIEJSZE ZAKOŃCZENIE".toUpperCase());
         this.requiredClauses.add("Struktura czasowych stóp procentowych".toUpperCase());
+        this.requiredClauses.add("Wypowiedzenie umowy".toUpperCase());
 
     }
 
